@@ -171,4 +171,4 @@ Recommended immediate code fixes (haven't done it yet!)
 - Remove duplicated evaluate() / evaluateSolution(); keep one and update callers.
 - Add guards in findNearestDepot and other depot-dependent methods.
 
-
+Maintainer: blackcontractor90 (https://www.linkedin.com/in/farid-morsidi-372083141/)
