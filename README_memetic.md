@@ -1,6 +1,6 @@
-# MDVRPTWSolver — Enhanced Memetic Solver for MDVRPTW (JavaFX)
+# MDVRPTWSolver — Enhanced Memetic Solver for MDVRPTW (MDVRP-TW-Memetic)
 
-A JavaFX GUI front-end to solve the Multi-Depot Vehicle Routing Problem with Time Windows (MDVRPTW) using an enhanced memetic/genetic algorithm combined with hybrid local search (route relocation) and LNS reinsertion strategies. This README is tailored specifically to the MDVRPTWSolver.java source you provided and documents how the file fits in the project, expected dependencies, how to run and test, and important implementation notes and TODOs.
+A JavaFX GUI front-end to solve the Multi-Depot Vehicle Routing Problem with Time Windows (MDVRPTW) using an enhanced memetic algorithm combined with hybrid local search (route relocation) and LNS reinsertion strategies. This README is tailored specifically to the MDVRPTWSolver.java source you provided and documents how the file fits in the project, expected dependencies, how to run and test, and important implementation notes and TODOs.
 
 Table of contents
 - Overview
@@ -165,7 +165,7 @@ Known issues, inconsistencies & TODOs (actionable)
 10) API surface stability
 - Decide which classes (RoutingSolver vs MDVRPTWSolver) provide decoding, evaluation, and solution constructors — centralize responsibilities to avoid confusion.
 
-Recommended immediate code fixes (short)
+Recommended immediate code fixes (haven't done it yet!)
 - Fix createRandomSolution permutation bug.
 - Unify route distance/penalty field names.
 - Remove duplicated evaluate() / evaluateSolution(); keep one and update callers.
