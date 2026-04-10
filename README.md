@@ -1,6 +1,6 @@
 # MDVRPTWSolver — Enhanced Memetic Solver for MDVRPTW (MDVRP-TW-Memetic)
 
-A JavaFX GUI front-end to solve the Multi-Depot Vehicle Routing Problem with Time Windows (MDVRPTW) using an enhanced memetic algorithm combined with hybrid local search (route relocation) and LNS reinsertion strategies. This README is tailored specifically to the MDVRPTWSolver.java source you provided and documents how the file fits in the project, expected dependencies, how to run and test, and important implementation notes and TODOs.
+A JavaFX GUI front-end to solve the Multi-Depot Vehicle Routing Problem with Time Windows (MDVRPTW) using an enhanced memetic algorithm combined with hybrid local search (route relocation) and LNS reinsertion strategies. This README is tailored specifically to the MDVRPTWSolver.java source you provided and documents how the file fits in the project, expected dependencies, how to run and test, and important implementation notes and TODOs.  This is the coding from my paper titled "An Intensification-Enhanced Adaptive Hybrid Memetic Algorithm for the Multi-Depot Vehicle Routing Problem with Time Windows" (https://arqiipubl.com/ojs/index.php/AMS_Journal/article/view/1127).
 
 Table of contents
 - Overview
